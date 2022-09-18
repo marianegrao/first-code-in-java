@@ -38,7 +38,7 @@ boolean isDeveloper = true;
 // Array type can only receive data of a specific type
 int numbers[] = {12, 54, 89};
 // once the array size is declared, is immutable
-int[] numbers = new int[5]
+int[] numbers = new int[5];
 ```
 
 ---
